@@ -9,9 +9,6 @@ Welcome to the Recipe List Project! This project is a simple yet elegant collect
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
